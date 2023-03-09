@@ -7,11 +7,6 @@ module.exports = {
         center: true,
         padding: "2rem",
       },
-      colors:{
-        pts:{
-          blue: "#253B63"
-        }
-      },
       fontFamily: {
         'inter':['Inter', 'sans-serif'],
       }
